@@ -1,2 +1,1 @@
-i'm emerald, i make things
-any projects i make will be shown here
+### any projects i make will be linked here
